@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project web page creation
+Odin Project web page creation - Increasing HTML knowledge
